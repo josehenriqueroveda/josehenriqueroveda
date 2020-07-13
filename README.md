@@ -23,12 +23,14 @@ I have a passion for **science**: researching, exploring and writing articles ab
 I write about things that I am familiar with, things that I want to learn and that I am learning, always driven by curiosity. I seek to create solutions based on **data** using **Python**. 🐍
 
 #### In the medical field: 🩺🔬
-Predicting cervical cancer risk with Machine Learning [Read the article](https://medium.com/@zeh.henrique92/predi%C3%A7%C3%A3o-de-risco-de-c%C3%A2ncer-do-colo-do-%C3%BAtero-com-machine-learning-e4f34d6fbeb3) (In portuguese 🇧🇷).
+> Predicting cervical cancer risk with Machine Learning - [Read the article](https://medium.com/@zeh.henrique92/predi%C3%A7%C3%A3o-de-risco-de-c%C3%A2ncer-do-colo-do-%C3%BAtero-com-machine-learning-e4f34d6fbeb3) (In portuguese 🇧🇷).
+
+> Basic exploration and visualization of lung CT scans with Python - [Read the article](https://medium.com/@zeh.henrique92/basic-exploration-and-visualization-of-lung-ct-scans-with-python-e86b8d665bb6?source=friends_link&sk=0cc8b8817968bf5cc40855a1309d7ba1) (In english 🇺🇸)
 
 *There will be more ...* 💻
 
 #### In the agribusiness sector 🌱🚜
-Python: Analysing credit to agriculture in Brazil [Read the article](https://medium.com/@zeh.henrique92/python-analysing-credit-to-agriculture-in-brazil-d82169acd0f7) (In english 🇺🇸).
+> Python: Analysing credit to agriculture in Brazil - [Read the article](https://medium.com/@zeh.henrique92/python-analysing-credit-to-agriculture-in-brazil-d82169acd0f7) (In english 🇺🇸).
 
 *There will be more ...* 💻
 
