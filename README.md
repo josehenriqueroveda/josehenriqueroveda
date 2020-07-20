@@ -40,4 +40,4 @@ I write about things that I am familiar with, things that I want to learn and th
 
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=josehenriqueroveda.visitor-badge">
- <p/>
+<p/>
