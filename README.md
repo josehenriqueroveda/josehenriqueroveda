@@ -10,7 +10,8 @@
 
 Hey there 👋,
 
-Interest in **Data Science** and **Python**, enthusiast of **artificial intelligence** and **machine learning**.
+Interest in **Data Science** and **Python**, enthusiast of **artificial intelligence** and **machine learning** applied to **medicine**.
+I love teaching, researching, as well as learning..
 Graduation in Systems Analysis and Development with extra courses in Precision Agriculture.
 I have a taste for learning and to be evolving and growing professionally and personally, so I value the effort and humility to achieve my goals.
 The development of technologies is a solution for several sectors, impacting on quality, efficiency and the generation of innovation.
