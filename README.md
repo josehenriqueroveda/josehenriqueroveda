@@ -35,8 +35,6 @@ I write about things that I am familiar with, things that I want to learn and th
 #### In the agribusiness sector 🌱🚜
 - Python: Analysing credit to agriculture in Brazil - [Read the article](https://medium.com/@zeh.henrique92/python-analysing-credit-to-agriculture-in-brazil-d82169acd0f7) (In english 🇺🇸).
 
-*There will be more ...* 💻
-
 ---
 
 📨 Contact me on social medias or by email: *zeh.henrique92@gmail.com*
