@@ -10,7 +10,7 @@
 
 Hey there 👋,
 
-Interest in **Data Science** and **Python**, enthusiast of **artificial intelligence** and **machine learning** applied to **medicine**.
+Interest in **Data Science** and **Python**, enthusiast of **artificial intelligence** and **machine learning** applied to **physician area**.
 Personalized medicine researcher.
 I love teaching, researching, as well as learning..
 Graduation in Systems Analysis and Development with extra courses in Precision Agriculture.
