@@ -39,6 +39,11 @@ I write about things that I am familiar with, things that I want to learn and th
 - Python: Analysing credit to agriculture in Brazil - [Read the article](https://medium.com/@zeh.henrique92/python-analysing-credit-to-agriculture-in-brazil-d82169acd0f7) (In english 🇺🇸).
 
 ---
+#### To help other developers...
+
+- Oracle Database: Cheat sheet for quick reference - [Access the page](https://josehenriqueroveda.github.io/oracle-cs/) (In english 🇺🇸)
+
+---
 
 📨 Contact me on social medias or by email: *zeh.henrique92@gmail.com*
 
