@@ -33,13 +33,12 @@ I write about things that I am familiar with, things that I want to learn and th
 
 - Supervised learning in the task of identify if is a benign or malignant breast cancer - [Read the article](https://medium.com/@zeh.henrique92/supervised-learning-in-the-task-of-identify-if-is-a-benign-or-malignant-breast-cancer-69b4cbc42b84?source=friends_link&sk=c1ee5ba2d4b950c9c729eecdc50812c3) (In english 🇺🇸)
 
-*There will be more ...* 💻
 
 #### In the agribusiness sector 🌱🚜
 - Python: Analysing credit to agriculture in Brazil - [Read the article](https://medium.com/@zeh.henrique92/python-analysing-credit-to-agriculture-in-brazil-d82169acd0f7) (In english 🇺🇸).
 
 ---
-#### To help other developers...
+#### To help other developers... 💻
 
 - Oracle Database: Cheat sheet for quick reference - [Access the page](https://josehenriqueroveda.github.io/oracle-cs/) (In english 🇺🇸)
 
