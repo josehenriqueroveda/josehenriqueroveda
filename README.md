@@ -24,6 +24,8 @@ I have a passion for **science**: researching, exploring and writing articles ab
 ### Some articles out there ...
 I write about things that I am familiar with, things that I want to learn and that I am learning, always driven by curiosity. I seek to create solutions based on **data** using **Python**. 🐍
 
+---
+
 #### In the medical field: 🩺🔬
 - Predicting cervical cancer risk with Machine Learning - [Read the article](https://medium.com/@zeh.henrique92/predi%C3%A7%C3%A3o-de-risco-de-c%C3%A2ncer-do-colo-do-%C3%BAtero-com-machine-learning-e4f34d6fbeb3) (In portuguese 🇧🇷).
 
@@ -33,6 +35,7 @@ I write about things that I am familiar with, things that I want to learn and th
 
 - Supervised learning in the task of identify if is a benign or malignant breast cancer - [Read the article](https://medium.com/@zeh.henrique92/supervised-learning-in-the-task-of-identify-if-is-a-benign-or-malignant-breast-cancer-69b4cbc42b84?source=friends_link&sk=c1ee5ba2d4b950c9c729eecdc50812c3) (In english 🇺🇸)
 
+---
 
 #### In the agribusiness sector 🌱🚜
 - Python: Analysing credit to agriculture in Brazil - [Read the article](https://medium.com/@zeh.henrique92/python-analysing-credit-to-agriculture-in-brazil-d82169acd0f7) (In english 🇺🇸).
