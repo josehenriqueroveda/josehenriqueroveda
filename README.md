@@ -26,7 +26,7 @@ I write about things that I am familiar with, things that I want to learn and th
 
 ---
 
-#### In the medical field: 🩺🔬
+#### In the physician area: 🩺🔬
 - Predicting cervical cancer risk with Machine Learning - [Read the article](https://medium.com/@zeh.henrique92/predi%C3%A7%C3%A3o-de-risco-de-c%C3%A2ncer-do-colo-do-%C3%BAtero-com-machine-learning-e4f34d6fbeb3) (In portuguese 🇧🇷).
 
 - Basic exploration and visualization of lung CT scans with Python - [Read the article](https://medium.com/@zeh.henrique92/basic-exploration-and-visualization-of-lung-ct-scans-with-python-e86b8d665bb6?source=friends_link&sk=0cc8b8817968bf5cc40855a1309d7ba1) (In english 🇺🇸)
