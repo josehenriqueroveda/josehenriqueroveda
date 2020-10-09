@@ -10,14 +10,10 @@
 
 Hey there 👋,
 
-Interest in **Data Science** and **Python**, enthusiast of **artificial intelligence** and **machine learning** applied to **physician area**.
-Personalized medicine researcher.
-I love teaching, researching, as well as learning..
-Graduation in Systems Analysis and Development with extra courses in Precision Agriculture.
-I have a taste for learning and to be evolving and growing professionally and personally, so I value the effort and humility to achieve my goals.
-The development of technologies is a solution for several sectors, impacting on quality, efficiency and the generation of innovation.
-Currently I focus on studies on the development of artificial intelligence solutions applied to medicine , whether for diagnostics or image reading. I also like to work with data analysis of agribusiness and other sectors of the economy.
-I have a passion for **science**: researching, exploring and writing articles about what I develop.
+Interest in development, data science, python, enthusiast of artificial intelligence and machine learning.
+I love teaching, researching, as well as learning.
+Graduation in Systems Analysis and Development. 
+Currently I focus on studies on the development of solutions using technology.  I have a passion for science: researching, exploring and writing articles about what I develop. 
 
 ---
 
