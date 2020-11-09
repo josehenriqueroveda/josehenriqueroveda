@@ -10,15 +10,25 @@
 
 Hey there 👋,
 
-Interest in development, data science, python, enthusiast of artificial intelligence and machine learning.
-I love teaching, researching, as well as learning.
-Graduation in Systems Analysis and Development. 
-Currently I focus on studies on the development of solutions using technology.  I have a passion for science: researching, exploring and writing articles about what I develop. 
+Interest in Java, Databases, Python, AI and development of solutions using technology.
+I like to study, learn new things and work in hands-on.
+Graduation in Systems Analysis and Development. (Precision Agriculture as extra subject)
+I have a passion for science and new knowledges, researching, exploring and writing articles about what I develop. 
 
 ---
 
 ### Some articles out there ...
-I write about things that I am familiar with, things that I want to learn and that I am learning, always driven by curiosity. I seek to create solutions based on **data** using **Python**. 🐍
+I write about things that I am familiar with, things that I want to learn and that I am learning, always driven by curiosity.
+
+---
+
+#### In the agribusiness sector 🌱🚜
+- Python: Analysing credit to agriculture in Brazil - [Read the article](https://medium.com/@zeh.henrique92/python-analysing-credit-to-agriculture-in-brazil-d82169acd0f7) (In english 🇺🇸).
+
+---
+#### To help other developers... 💻
+
+- Oracle Database: Cheat sheet for quick reference - [Access the page](https://josehenriqueroveda.github.io/oracle-cs/) (In english 🇺🇸)
 
 ---
 
@@ -30,16 +40,6 @@ I write about things that I am familiar with, things that I want to learn and th
 - Coronavirus Covid-19: "Covid-19 by numbers" / Information Dashboard - [Read the article](https://medium.com/@zeh.henrique92/covid-19-by-numbers-7036ec659fb3?source=friends_link&sk=dc91b8d0f42940465a9476904d8f6370) / [View the dashboard](https://covid-worldinfo.herokuapp.com/) (In english 🇺🇸)
 
 - Supervised learning in the task of identify if is a benign or malignant breast cancer - [Read the article](https://medium.com/@zeh.henrique92/supervised-learning-in-the-task-of-identify-if-is-a-benign-or-malignant-breast-cancer-69b4cbc42b84?source=friends_link&sk=c1ee5ba2d4b950c9c729eecdc50812c3) (In english 🇺🇸)
-
----
-
-#### In the agribusiness sector 🌱🚜
-- Python: Analysing credit to agriculture in Brazil - [Read the article](https://medium.com/@zeh.henrique92/python-analysing-credit-to-agriculture-in-brazil-d82169acd0f7) (In english 🇺🇸).
-
----
-#### To help other developers... 💻
-
-- Oracle Database: Cheat sheet for quick reference - [Access the page](https://josehenriqueroveda.github.io/oracle-cs/) (In english 🇺🇸)
 
 ---
 
