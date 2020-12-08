@@ -1,12 +1,11 @@
 # [![jose henrique header](https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/dev.png)](https://www.linkedin.com/in/jhroveda/)
 <h2>José Henrique Roveda</h2>
+
 <p align='center'>
-<a href="https://www.linkedin.com/in/jhroveda/"><img height="30" src="https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.kaggle.com/josehenriqueroveda"><img height="30" src="https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/kaggle.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@zeh.henrique92"><img height="30" src="https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/medium.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/13136846/jos%c3%a9-henrique-roveda"><img height="30" src="https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/stackoverflow.svg?raw=true"></a>
-<a href="https://www.instagram.com/josehenriqueroveda/?hl=en"><img height="30" src="https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/instagram.jpg?raw=true"></a>
-<a href="https://www.facebook.com/josehenrique.roveda"><img height="30" src="https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/facebook.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/jhroveda/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.kaggle.com/josehenriqueroveda"><img height="30" src="https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/kaggle.png"></a>
+<a href="https://medium.com/@zeh.henrique92"><img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/13136846/jos%c3%a9-henrique-roveda"><img height="30" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
 
 Hey there 👋,
