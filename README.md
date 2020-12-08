@@ -3,7 +3,7 @@
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/jhroveda/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.kaggle.com/josehenriqueroveda"><img height="30" src="https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/kaggle.png"></a>
+<a href="https://www.kaggle.com/josehenriqueroveda"><img height="30" src="https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/kaggle-badge.png"></a>
 <a href="https://medium.com/@zeh.henrique92"><img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href="https://stackoverflow.com/users/13136846/jos%c3%a9-henrique-roveda"><img height="30" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
