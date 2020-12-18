@@ -43,7 +43,7 @@ I write about things that I am familiar with, things that I want to learn and th
 
 ---
 
-📨 Contact me on social medias or by email: *zeh.henrique92@gmail.com*
+📨 Contact me on social medias or by email: *jose.roveda@fatec.sp.gov.br*
 
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=josehenriqueroveda.visitor-badge">
