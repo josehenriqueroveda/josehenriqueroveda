@@ -10,7 +10,7 @@
 
 Hey there 👋,
 
-Interest in SAP/ABAP/Fiori, Javascript, Python, Java, SQL and development of solutions using technology.
+Interest in SAP/ABAP/UI5/Fiori, Javascript, Python, Java, SQL and development of solutions using technology.
 I like to study, learn new things and work in hands-on.
 Graduation in Systems Analysis and Development. (Precision Agriculture as extra subject)
 I have a passion for science and new knowledges, researching, exploring and writing articles about what I develop. 
