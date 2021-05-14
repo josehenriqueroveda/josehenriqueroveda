@@ -32,6 +32,7 @@ I write about things that I am familiar with, things that I want to learn and th
 #### To help other developers... 💻
 
 - Oracle Database: Cheat sheet for quick reference - [Access the page](https://josehenriqueroveda.github.io/oracle-cs/) (In english 🇺🇸)
+- Choosing the Right Chart: Basic guide to help you to choose the right chart using Python, Seaborn and Matplotlib - [Access the page](https://josehenriqueroveda.github.io/ChoosingCharts/) (In english us)
 
 ---
 
