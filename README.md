@@ -1,4 +1,4 @@
-# [![jose henrique header](https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/dev.png)](https://www.linkedin.com/in/jhroveda/)
+# [![jose henrique header](https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/Banner.jpeg)](https://www.linkedin.com/in/jhroveda/)
 <h2>José Henrique Roveda</h2>
 
 <p align='center'>
