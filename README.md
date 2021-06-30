@@ -10,7 +10,7 @@
 
 Hey there 👋,
 
-Passionate about Data Science, Business Intelligence and developing solutions with R or Python.
+Passionate about Data Science, Business Intelligence and developing solutions with R.
 
 Studying at the MBA in Data Science and Analytics at USP / ESALQ.
 
