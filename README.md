@@ -10,7 +10,7 @@
 
 Hey there 👋,
 
-Passionate about Data Science, Business Intelligence and developing solutions with R.
+Passionate about Data Science, Business Intelligence, Agrobusiness and developing solutions with R.
 
 Studying at the MBA in Data Science and Analytics at USP / ESALQ.
 
@@ -25,7 +25,7 @@ I write about things that I am familiar with, things that I want to learn and th
 
 ---
 
-#### In the agribusiness sector 🌱🚜
+#### In Agribusiness 🌱🚜
 - Python: Analysing credit to agriculture in Brazil - [Read the article](https://medium.com/@zeh.henrique92/python-analysing-credit-to-agriculture-in-brazil-d82169acd0f7) (In english 🇺🇸).
 
 ---
@@ -36,18 +36,8 @@ I write about things that I am familiar with, things that I want to learn and th
 
 ---
 
-#### In the physician area: 🩺🔬
-- Predicting cervical cancer risk with Machine Learning - [Read the article](https://medium.com/@zeh.henrique92/predi%C3%A7%C3%A3o-de-risco-de-c%C3%A2ncer-do-colo-do-%C3%BAtero-com-machine-learning-e4f34d6fbeb3) (In portuguese 🇧🇷).
-
-- Basic exploration and visualization of lung CT scans with Python - [Read the article](https://medium.com/@zeh.henrique92/basic-exploration-and-visualization-of-lung-ct-scans-with-python-e86b8d665bb6?source=friends_link&sk=0cc8b8817968bf5cc40855a1309d7ba1) (In english 🇺🇸)
-
-- Coronavirus Covid-19: "Covid-19 by numbers" / Information Dashboard - [Read the article](https://medium.com/@zeh.henrique92/covid-19-by-numbers-7036ec659fb3?source=friends_link&sk=dc91b8d0f42940465a9476904d8f6370) / [View the dashboard](https://covid-worldinfo.herokuapp.com/) (In english 🇺🇸)
-
-- Supervised learning in the task of identify if is a benign or malignant breast cancer - [Read the article](https://medium.com/@zeh.henrique92/supervised-learning-in-the-task-of-identify-if-is-a-benign-or-malignant-breast-cancer-69b4cbc42b84?source=friends_link&sk=c1ee5ba2d4b950c9c729eecdc50812c3) (In english 🇺🇸)
-
----
-
-📨 Contact me on social medias or by email: *jose.roveda@fatec.sp.gov.br*
+📨 Email: *josehenriqueroveda@usp.br* <br>
+📨 Email: *jose.roveda@fatec.sp.gov.br*
 
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=josehenriqueroveda.visitor-badge">
