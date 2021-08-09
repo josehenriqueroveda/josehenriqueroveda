@@ -20,19 +20,19 @@ I firmly believe that I can change agriculture and people's lives, using technol
 
 ---
 
-### Some articles out there ...
-I write about things that I am familiar with, things that I want to learn and that I am learning, always driven by curiosity.
+### Some study projects ...
+Usually to learn something new, I like to do it hands-on, thinking about a contribution applied to the real world and sharing the result.
 
 ---
 
 #### In Agribusiness 🌱🚜
-- Python: Analysing credit to agriculture in Brazil - [Read the article](https://medium.com/@zeh.henrique92/python-analysing-credit-to-agriculture-in-brazil-d82169acd0f7) (In english 🇺🇸).
+- **milhaRal API**: API for corn yield estimate calculations. - [Open the repository](https://github.com/josehenriqueroveda/milhaRal-API).
 
 ---
 #### To help other developers... 💻
 
-- Oracle Database: Cheat sheet for quick reference - [Access the page](https://josehenriqueroveda.github.io/oracle-cs/) (In english 🇺🇸)
-- Choosing the Right Chart: Basic guide to help you to choose the right chart using Python, Seaborn and Matplotlib - [Access the page](https://josehenriqueroveda.github.io/ChoosingCharts/) (In english us)
+- **Oracle CS:** Oracle Database cheat sheet for quick reference - [Access the page](https://josehenriqueroveda.github.io/oracle-cs/)
+- **Choosing the Right Chart**: Basic guide to help you to choose the right chart using Python, Seaborn and Matplotlib - [Access the page](https://josehenriqueroveda.github.io/ChoosingCharts/)
 
 ---
 
