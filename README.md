@@ -10,11 +10,12 @@
 
 Hey there 👋,
 
-Passionate about Data Science, Business Intelligence, Agrobusiness and developing solutions with R.
-
-Studying at the MBA in Data Science and Analytics at USP / ESALQ.
+Passionate about Data Science, Business Intelligence, Agrobusiness and R.
 
 I am graduated in Analysis and Systems Development (Precision Agriculture as extra subject). Twice awarded: as best undergraduate student and outstanding undergraduate final project award.
+
+Currently I work as IT Trainee at an agricultural multinational, where I am responsible for projects in data analysis and process automation, working with Brazil-China teams.
+I'm the first Continuous Improvement representative in the Information Technology department.
 
 I firmly believe that I can change agriculture and people's lives, using technology as a tool for results and innovation that will be a legacy for future generations.
 
