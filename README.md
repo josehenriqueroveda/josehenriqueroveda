@@ -38,7 +38,6 @@ Usually to learn something new, I like to do it hands-on, thinking about a contr
 ---
 
 📨 Email: *josehenriqueroveda@usp.br* <br>
-📨 Email: *jose.roveda@fatec.sp.gov.br*
 
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=josehenriqueroveda.visitor-badge">
