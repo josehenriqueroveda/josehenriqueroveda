@@ -10,7 +10,7 @@
 
 Hey there 👋,
 
-Passionate about Data Science, Business Intelligence, Agrobusiness and R.
+Passionate about Data Science, Analytics, Business Intelligence, Agrobusiness and Julia/R.
 
 I am graduated in Analysis and Systems Development (Precision Agriculture as extra subject). Twice awarded: as best undergraduate student and outstanding undergraduate final project award.
 
