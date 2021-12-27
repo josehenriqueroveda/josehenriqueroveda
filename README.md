@@ -11,7 +11,7 @@
 
 Hey there 👋,
 
-Passionate about Data Science, Analytics, Business Intelligence, Agrobusiness and Julia Language.
+Passionate about <b>Data Science, Analytics, Business Intelligence, Agrobusiness and Julia Language</b>.
 
 I am graduated in Analysis and Systems Development (Precision Agriculture as extra subject). Twice awarded: as best undergraduate student and outstanding undergraduate final project award.
 
@@ -27,13 +27,14 @@ I firmly believe that I can change agriculture and people's lives, using technol
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=josehenriqueroveda&count_private=true&show_icons=true&theme=github_dark" />
 </a>
 <h4> My Agribusiness Passion 🌱🚜 </h4>
-Most of my projects are in the agribusiness/agriculture area, where I always try to do data science projects with the aim of improving the food production chain.
+Most of my projects are in the <u>agribusiness/agriculture</u> area, where I always try to do data science projects with the aim of improving the food production chain.
 
 
 ---
 <h4>Language Preferences</h4>
-<p>I decided to learn Julia language to do my job as a Data Scientist and it became my favorite. Being part of a community still in formation with innovative projects and being able to contribute to this is something that motivates me and is part of the essence of language.</p>
-
+<img align="right" alt="Julia Icon" width="60" src="https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/Julia%20Language-logo.svg">
+<p>I decided to learn <b>Julia language</b> to do my job as a Data Scientist and it became my favorite. Being part of a community still in formation with innovative projects and being able to contribute to this is something that motivates me and is part of the essence of language.
+</p>
 
 <a href="https://github.com/josehenriqueroveda/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriqueroveda&layout=compact&langs_count=3&theme=github_dark" />
@@ -43,7 +44,7 @@ Most of my projects are in the agribusiness/agriculture area, where I always try
 
 ---
 
-<p>📨 Email: *josehenriqueroveda@usp.br* </p>
+<p>📨 Email: <a href="josehenriqueroveda@usp.br">josehenriqueroveda@usp.br</a></p>
 
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=josehenriqueroveda.visitor-badge">
