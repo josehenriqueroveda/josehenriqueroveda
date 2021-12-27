@@ -15,7 +15,7 @@ Passionate about <b>Data Science, Analytics, Business Intelligence, Agrobusiness
 
 I am graduated in Analysis and Systems Development (Precision Agriculture as extra subject). Twice awarded: as best undergraduate student and outstanding undergraduate final project award.
 
-Currently I work as IT Trainee at an agricultural multinational, where I am responsible for projects in data analysis and process automation, working with 🇧🇷 Brazil-China 🇨🇳 teams.
+Currently I work as IT Trainee at an agricultural multinational, where I am responsible for projects in data science and process automation, working with 🇧🇷 Brazil-China 🇨🇳 teams.
 I'm the first Continuous Improvement representative in the Information Technology department.
 
 I firmly believe that I can change agriculture and people's lives, using technology as a tool for results and innovation that will be a legacy for future generations.
@@ -27,7 +27,7 @@ I firmly believe that I can change agriculture and people's lives, using technol
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=josehenriqueroveda&count_private=true&show_icons=true&theme=github_dark" />
 </a>
 <h4> My Agribusiness Passion 🌱🚜 </h4>
-Most of my projects are in the <u>agribusiness/agriculture</u> area, where I always try to do data science projects with the aim of improving the food production chain.
+Most of my projects are in the <b>agribusiness/agriculture</b> area, where I always try to do data science projects with the aim of improving the food production chain.
 
 
 ---
