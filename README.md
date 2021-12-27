@@ -21,7 +21,7 @@ I'm the first Continuous Improvement representative in the Information Technolog
 I firmly believe that I can change agriculture and people's lives, using technology as a tool for results and innovation that will be a legacy for future generations.
 
 ---
-<h4>Github Stats</h4>
+<h4>GitHub Stats</h4>
 
 <a href="https://github.com/josehenriqueroveda/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=josehenriqueroveda&count_private=true&show_icons=true&theme=github_dark" />
@@ -40,9 +40,12 @@ Most of my projects are in the <u>agribusiness/agriculture</u> area, where I alw
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriqueroveda&layout=compact&langs_count=3&theme=github_dark" />
 </a>
 
-
-
 ---
+
+<h4>GitHub Trophies</h4>
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=josehenriqueroveda&theme=discord&no-bg=true&no-frame=true&title=Repo,Commits,Stars,Followers)](https://github.com/josehenriqueroveda/github-profile-trophy)
+
 
 <p>📨 Email: <a href="josehenriqueroveda@usp.br">josehenriqueroveda@usp.br</a></p>
 
