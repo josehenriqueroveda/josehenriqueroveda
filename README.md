@@ -33,7 +33,7 @@ Most of my projects are in the <b>agribusiness/agriculture</b> area, where I alw
 ---
 <h4>Language Preferences</h4>
 <img align="right" alt="Julia Icon" width="60" src="https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/Julia%20Language-logo.svg">
-<p>I decided to learn <b>Julia language</b> to do my job as a Data Scientist and it became my favorite. Being part of a community still in formation with innovative projects and being able to contribute to this is something that motivates me and is part of the essence of language.
+<p>I decided to learn <b>Julia language</b> to do my job as a Data Scientist and it became my favorite language. Being part of a community still in formation with innovative projects and being able to contribute to this is something that motivates me and is part of the essence of language.
 </p>
 
 <a href="https://github.com/josehenriqueroveda/github-readme-stats">
