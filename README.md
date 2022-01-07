@@ -49,6 +49,8 @@ Most of my projects are in the <b>agribusiness/agriculture</b> area, where I alw
 
 <p>📨 Email: <a href="josehenriqueroveda@usp.br">josehenriqueroveda@usp.br</a></p>
 
+---
 <p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=josehenriqueroveda.visitor-badge">
+ <img align="center" alt="Git" width="48" src="https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/mona-loading-dimmed.gif"><br>
+ <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=josehenriqueroveda.visitor-badge">
 <p/>
