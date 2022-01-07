@@ -44,7 +44,7 @@ Most of my projects are in the <b>agribusiness/agriculture</b> area, where I alw
 
 <h4>GitHub Trophies</h4>
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=josehenriqueroveda&theme=discord&no-bg=true&no-frame=true&title=Repo,Commits,Stars,Followers)](https://github.com/josehenriqueroveda/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=josehenriqueroveda&theme=discord&no-bg=true&no-frame=true&title=Repo,Commits,MultiLanguage,Stars,Followers)](https://github.com/josehenriqueroveda/github-profile-trophy)
 
 
 <p>📨 Email: <a href="josehenriqueroveda@usp.br">josehenriqueroveda@usp.br</a></p>
