@@ -4,7 +4,6 @@
 <p align='left'>
 <a href="https://www.linkedin.com/in/jhroveda/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.kaggle.com/josehenriqueroveda"><img height="30" src="https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/kaggle-badge.png"></a>
- <a href="https://julialang.org/"><img height="30" src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"></a>
 <a href="https://stackoverflow.com/users/13136846/jos%c3%a9-henrique-roveda"><img height="30" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
 <br>
@@ -31,10 +30,6 @@ Most of my projects are in the <b>agribusiness/agriculture</b> area, where I alw
 
 
 ---
-<h4>Language Preferences</h4>
-<img align="right" alt="Julia Icon" width="60" src="https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/Julia%20Language-logo.svg">
-<p>I decided to learn <b>Julia language</b> to do my job as a Data Scientist and it became my favorite language. Being part of a community still in formation with innovative projects and being able to contribute to this is something that motivates me and is part of the essence of language.
-</p>
 
 <a href="https://github.com/josehenriqueroveda/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriqueroveda&layout=compact&langs_count=3&theme=github_dark" />
