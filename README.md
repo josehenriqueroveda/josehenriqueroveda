@@ -10,11 +10,11 @@
 
 Hey there 👋,
 
-Passionate about <b>Data Science, Analytics, Business Intelligence, Agrobusiness and Julia Language</b>.
+Passionate about <b>Data Science & Analytics, Business Intelligence, Agrobusiness and Python</b>.
 
 I am graduated in Analysis and Systems Development (Precision Agriculture as extra subject). Twice awarded: as best undergraduate student and outstanding undergraduate final project award.
 
-Currently I work as IT Trainee at an agricultural multinational, where I am responsible for projects in data science and process automation, working with 🇧🇷 Brazil-China 🇨🇳 teams.
+Currently I work as IT Trainee at an agricultural multinational, where I am responsible for projects in data science & analytics and process automation, working with 🇧🇷 Brazil-China 🇨🇳 teams.
 I'm the first Continuous Improvement representative in the Information Technology department.
 
 I firmly believe that I can change agriculture and people's lives, using technology as a tool for results and innovation that will be a legacy for future generations.
