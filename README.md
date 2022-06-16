@@ -14,14 +14,14 @@ Passionate about <b>Data Science & Analytics, Business Intelligence, Agrobusines
 
 I am graduated in Analysis and Systems Development (Precision Agriculture as extra subject). 
 <br>
-<b>Awards</b>:
+<b>College Awards</b>:
 - 🏆 Best undergraduate student
 - 🏆 Outstanding undergraduate final project award
 
 Currently I work as IT Trainee at an agricultural multinational, where I am responsible for projects in data science & analytics and process automation, working with 🇧🇷 Brazil-China 🇨🇳 teams.
 I'm the first Continuous Improvement representative in the Information Technology department.
 <br>
-<b>Awards</b>:
+<b>Work Awards</b>:
 - 🏆 Outstanding representative in the continuous improvement program
 
 I firmly believe that I can change agriculture and people's lives, using technology as a tool for results and innovation that will be a legacy for future generations.
