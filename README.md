@@ -20,7 +20,7 @@ I am graduated in Analysis and Systems Development (Precision Agriculture as ext
 
 Currently I work as IT Trainee at an agricultural multinational, where I am responsible for projects in data science & analytics and process automation, working with 🇧🇷 Brazil-China 🇨🇳 teams.
 I'm the first Continuous Improvement representative in the Information Technology department.
-<br>
+<br><br>
 <b>Work Awards</b>:
 - 🏆 Outstanding representative in the continuous improvement program
 
