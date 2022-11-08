@@ -18,8 +18,7 @@ I am graduated in Analysis and Systems Development (Precision Agriculture as ext
 - 🏆 Best undergraduate student
 - 🏆 Outstanding undergraduate final project award
 
-Currently I work as IT Trainee at an agricultural multinational, where I am responsible for projects in data science & analytics and process automation, working with 🇧🇷 Brazil-China 🇨🇳 teams.
-I'm the first Continuous Improvement representative in the Information Technology department.
+I currently work as a Senior Data Scientist at LongPing High-Tech, an agribusiness multinational, where I entered as a Data Science Trainee. I am responsible for projects in Data Science and Analytics, working with Brazil-China teams. I was named as the first Continuous Improvement representative for the Information Technology department, where I received the 2021 Outstanding Representative Award.
 <br><br>
 <b>Work Awards</b>:
 - 🏆 Outstanding representative in the continuous improvement program
