@@ -15,26 +15,30 @@ Work experiences:
 - Databases: MS SQL Server, Oracle, MongoDB;
 - Code versioning with git.
 - Knowledge in data projects and solutions for agribusiness;
-- Multi-country projects (Brazil-China);
+- International projects (Brazil-China);
 - I developed a python library to store logs in MongoDB and send notifications of errors to MS Teams - <a href="https://pypi.org/project/logze/">logze</a>
 <br>
+<hr>
+💻 <b>Work</b>: I currently work as a Senior Data Scientist at an agribusiness multinational company, where I started as Trainee. I am responsible for projects in Data Science and Analytics, working in Brazil-China teams.<br>
+🏆 Awards at work:<br>
+ - Presidential Award - Bronze 2023: Planting simulation and yield prediction with machine learning;<br>
+ - Efficiency and Innovation Award - Bronze 2022: ETL Migration to Talend Open Studio;<br>
+ - Distinguished Continuous Improvement Representative Award 2021;<br>
+ - Nomination for Continuous Improvement Representative of the Information Technology department;<br>
+ 
 <hr>
 <br>🎓 <b>MBA in Data Science & Analytics</b><br>
 - Nomination for the best Final Paper of MBA in Data Science & Analytics (Score 10): Machine Learning applied to predict yield and supporting the local positioning of maize hybrid in Central-West region of Brazil.<br>
 <br>🎓 <b>Technologist in Analysis and Systems Development (Precision Agriculture as extra subject)</b><br>
  🏆 Awarded twice:<br>
  - Outstanding Final Paper;<br>
- - Best student of Systems Analysis and Development;<br><br>
+ - Merit Award for Academic Performance;<br><br>
  - Completion work (score 10) and published at the 18th National Congress of Scientific Initiation: Development of a mobile application for managing agricultural spraying in different cultures;<br>
 <br>🎓 <b>Bachelor in Graphic Design</b><br>
 <br>
 <hr>
 
-💻 <b>Work</b>: I currently work as a Senior Data Scientist at an agribusiness multinational company, where I started as Trainee. I am responsible for projects in Data Science and Analytics, working in Brazil-China teams.<br>
-🏆 Awards at work:<br>
- - Efficiency and Innovation Award - Bronze 2022;<br>
- - Distinguished Representative Award 2021;<br>
- - Nomination for Continuous Improvement Representative of the Information Technology department;<br>
+
 
 I firmly believe that I can change agriculture and people's lives, using technology as a tool to generate results and innovation, which will be a legacy for future generations.
 
