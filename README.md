@@ -65,9 +65,6 @@ Most of my projects are in the <b>agribusiness/agriculture</b> area, where I alw
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=josehenriqueroveda&&theme=algolia&title=Repo,Commits,MultiLanguage,Stars,Followers)](https://github.com/josehenriqueroveda/github-profile-trophy)
 
-
-<p>📨 Email: <a href="josehenriqueroveda@usp.br">josehenriqueroveda@usp.br</a></p>
-
 ---
 <p align='center'>
  <img align="center" alt="Git" width="48" src="https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/mona-loading-dimmed.gif"><br>
