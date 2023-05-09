@@ -17,6 +17,7 @@ Work experiences:
 - Knowledge in data projects and solutions for agribusiness;
 - International projects (Brazil-China);
 - I developed a python library to store logs in MongoDB and send notifications of errors to MS Teams - <a href="https://pypi.org/project/logze/">logze</a>
+- I developed a simple web app to provide calculation methods to corn farmers - <a href="https://agromilho.vercel.app/">agromilho</a>
 <br>
 <hr>
 💻 <b>Work</b>: I currently work as a Senior Data Scientist at an agribusiness multinational company, where I started as Trainee. I am responsible for projects in Data Science and Analytics, working in Brazil-China teams.<br>
