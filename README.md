@@ -59,17 +59,13 @@ It's as a tool to generate results and innovation, which will be a legacy for fu
 
 ---
 <h2>🛠️ Technologies:</h2>
-<a href="https://github.com/josehenriqueroveda/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriqueroveda&&theme=algolia&layout=compact&langs_count=3" />
-</a>
-<div>
-<h3>Programming Languages</h3>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/> </a> 
-<h3>Tools</h3>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/> </a>&emsp;<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="32" height="32"/> </a> 
-<h3>Databases</h3>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="32" height="32"/> </a>&emsp;<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="32" height="32"/> </a>
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriqueroveda)](https://github.com/josehenriqueroveda/github-readme-stats&size_weight=0.5&count_weight=0.5)
+
+<br>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+
 
 ---
 
