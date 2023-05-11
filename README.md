@@ -40,8 +40,8 @@
 <h3>🏆 Awarded twice:</h3>
 
  - Outstanding Final Paper (Published at the 18th National Congress of Scientific Initiation)<br>
-   > **Project**: *Development of a mobile application for managing agricultural spraying in different cultures;*<br>
- - Merit Award for Academic Performance;<br><br>
+   > **Project**: *Development of a mobile application for managing agricultural spraying in different crops*<br>
+ - Merit Award for Academic Performance<br><br>
  
 <b>Bachelor in Graphic Design</b>: Universidade de Franca - UNIFRAN<br>
 <br>
