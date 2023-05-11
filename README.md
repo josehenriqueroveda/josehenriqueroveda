@@ -55,12 +55,13 @@ It's as a tool to generate results and innovation, which will be a legacy for fu
 ---
 <h3>GitHub Stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josehenriqueroveda&theme=algolia&count_private=true&show_icons=true&locale=en" alt="josehenriqueroveda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josehenriqueroveda&count_private=true&show_icons=true&locale=en&theme=dark#gh-dark-mode-only" alt="josehenriqueroveda" /></p>
 
 ---
 <h2>🛠️ Technologies:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriqueroveda)](https://github.com/josehenriqueroveda/github-readme-stats&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriqueroveda&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only)](https://github.com/josehenriqueroveda/github-readme-stats)
+
 
 <br>
 
@@ -71,7 +72,7 @@ It's as a tool to generate results and innovation, which will be a legacy for fu
 
 <h3>GitHub Trophies</h3>
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=josehenriqueroveda&&theme=algolia&title=Repo,Commits,MultiLanguage,Stars,Followers)](https://github.com/josehenriqueroveda/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=josehenriqueroveda&theme=onedark&title=Repo,Commits,MultiLanguage,Stars,Followers)](https://github.com/josehenriqueroveda/github-profile-trophy)
 
 
 > <h4 align="left">Connect with me:</h4>
