@@ -1,5 +1,13 @@
 <code>Hello world and welcome to my <b>github</b>!</code>
 
+<h4 align="left">Connect with me:</h4>
+<a href="https://linkedin.com/in/jhroveda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhroveda" height="30" width="40" /></a>
+<p align='center'>
+ <img align="left" alt="Git" width="48" src="https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/mona-loading-dimmed.gif"><br>
+ <img align='left' src="https://komarev.com/ghpvc/?username=josehenriqueroveda&label=Visitors&style=flat-square">
+<p/>
+<br>
+
 <h3>Knowledge and experiences:</h3>
 
 - Data science and analytics, data engineering
@@ -52,10 +60,6 @@
 Technology can change people's lives. 
 It's as a tool to generate results and innovation, which will be a legacy for future generations.
 ```
----
-<h3>GitHub Stats</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=josehenriqueroveda&count_private=true&show_icons=true&locale=en&theme=dark#gh-dark-mode-only" alt="josehenriqueroveda" /></p>
 
 ---
 <h2>🛠️ Technologies:</h2>
@@ -67,22 +71,18 @@ It's as a tool to generate results and innovation, which will be a legacy for fu
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 
-<h2>Coding Week Stats:</h2> 
+<h3>Coding Week Stats:</h3> 
 
 [![Jose's week stats](https://github-readme-stats.vercel.app/api/wakatime?&username=josehenriqueroveda&layout=compact&&theme=dark)](https://github.com/josehenriqueroveda/github-readme-stats)
 
----
+
+<h3>GitHub Stats</h3>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=josehenriqueroveda&count_private=true&show_icons=true&locale=en&theme=dark#gh-dark-mode-only" alt="josehenriqueroveda" /></p>
 
 <h3>GitHub Trophies</h3>
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=josehenriqueroveda&theme=onedark&title=Repo,Commits,MultiLanguage,Stars,Followers)](https://github.com/josehenriqueroveda/github-profile-trophy)
 
 
-> <h4 align="left">Connect with me:</h4>
-> <a href="https://linkedin.com/in/jhroveda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhroveda" height="30" width="40" /></a>
-
-
-<p align='center'>
- <img align="center" alt="Git" width="48" src="https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/master/icon/mona-loading-dimmed.gif"><br>
- <img align='center' src="https://komarev.com/ghpvc/?username=josehenriqueroveda&label=Visitors&style=flat-square">
-<p/>
+---
