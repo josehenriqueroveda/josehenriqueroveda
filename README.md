@@ -67,6 +67,9 @@ It's as a tool to generate results and innovation, which will be a legacy for fu
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 
+<h2>Coding Week Stats:</h2> 
+
+[![Jose's week stats](https://github-readme-stats.vercel.app/api/wakatime?&username=josehenriqueroveda&layout=compact&&theme=dark)](https://github.com/josehenriqueroveda/github-readme-stats)
 
 ---
 
