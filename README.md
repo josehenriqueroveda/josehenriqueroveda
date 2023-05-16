@@ -3,7 +3,9 @@
 <img align="left" height="48" src="https://github.com/josehenriqueroveda/josehenriqueroveda/blob/master/assets/hw.gif"><br>
 
 <div align='left'>
+ 
 <h4 align="left">Connect with me:</h4>
+ 
 <a href="https://linkedin.com/in/jhroveda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhroveda" height="30" width="40" /></a>
 </div>
 <br>
