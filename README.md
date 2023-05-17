@@ -81,7 +81,7 @@ It's as a tool to generate results and innovation, which will be a legacy for fu
 
 <h3>Coding Week Stats:</h3> 
 
-[![Jose's week stats](https://github-readme-stats.vercel.app/api/wakatime?&username=josehenriqueroveda&layout=compact&&theme=dark)](https://github.com/josehenriqueroveda/github-readme-stats)
+<a href="https://wakatime.com/@5737d08e-0c08-459f-9ef9-19fc41ca4423&style=plastic"><img src="https://wakatime.com/badge/user/5737d08e-0c08-459f-9ef9-19fc41ca4423.svg" alt="Total time coded since May 11 2023" /></a>
 
 
 <h3>GitHub Stats</h3>
