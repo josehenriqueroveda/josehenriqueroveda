@@ -79,10 +79,12 @@ It's as a tool to generate results and innovation, which will be a legacy for fu
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 
-<h3>Coding Week Stats:</h3> 
+<h3>Coding Stats:</h3> 
 
 <a href="https://wakatime.com/@5737d08e-0c08-459f-9ef9-19fc41ca4423&style=plastic"><img src="https://wakatime.com/badge/user/5737d08e-0c08-459f-9ef9-19fc41ca4423.svg" alt="Total time coded since May 11 2023" /></a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h3>GitHub Stats</h3>
 
