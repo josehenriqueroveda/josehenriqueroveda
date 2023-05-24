@@ -85,6 +85,19 @@ It's as a tool to generate results and innovation, which will be a legacy for fu
 
 
 <!--START_SECTION:waka-->
+
+```text
+From: 11 May 2023 - To: 24 May 2023
+
+Total Time: 27 hrs 2 mins
+
+Vue.js       13 hrs 10 mins  ████████████▒░░░░░░░░░░░░   48.69 %
+Python       6 hrs 53 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.46 %
+CSS          3 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
+JavaScript   2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+Julia        32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+```
+
 <!--END_SECTION:waka-->
 
 
