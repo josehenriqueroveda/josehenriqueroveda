@@ -83,8 +83,10 @@ It's as a tool to generate results and innovation, which will be a legacy for fu
 
 <a href="https://wakatime.com/@5737d08e-0c08-459f-9ef9-19fc41ca4423&style=plastic"><img src="https://wakatime.com/badge/user/5737d08e-0c08-459f-9ef9-19fc41ca4423.svg" alt="Total time coded since May 11 2023" /></a>
 
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 
 <h3>GitHub Stats</h3>
 
