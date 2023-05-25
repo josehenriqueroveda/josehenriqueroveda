@@ -28,7 +28,7 @@
 - Knowledge in data projects and solutions for agribusiness
 - International projects (Brazil-China)
 - I developed a python library to store logs in MongoDB and send notifications of errors to MS Teams - <a href="https://pypi.org/project/logze/">logze</a>
-- I developed a simple web app to provide calculation methods to corn farmers - <a href="https://agromilho.vercel.app/">agromilho</a>
+- I developed a julia package for encoding cyclical values using sine and cosine - <a href="https://github.com/josehenriqueroveda/CyclicalEncoding.jl">CyclicalEncoding.jl</a>
 <br>
 <hr>
 
