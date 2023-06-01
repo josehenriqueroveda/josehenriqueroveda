@@ -21,7 +21,9 @@
 - Data science and analytics, data engineering
 - Machine learning model development
 - Data visualization in python, grafana and Power BI
-- Solid experience in programming with python: data automation scripts, ETL, backend (API's) and web scraping
+- Solid experience in programming with python: data automation scripts, ETL, backend (FastAPI) and web scraping
+- Intermediate julia programming skills
+- Intermediate vue.js
 - SQL queries
 - Databases: MS SQL Server, Oracle, MongoDB
 - Code versioning with Git
