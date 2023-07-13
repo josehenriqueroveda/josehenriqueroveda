@@ -33,7 +33,7 @@
 <h4>Open source contribuitions</h4>
 
 - I developed a python library to store logs in MongoDB and send notifications of errors to MS Teams - <a href="https://pypi.org/project/logze/">logze</a>
-- I developed a python library that provides functionality to read data from Excel and CSV files and insert it into a Microsoft SQL Server database. - <a href="https://pypi.org/project/logze/">logze</a>
+- I developed a python library that provides functionality to read data from Excel and CSV files and insert it into a Microsoft SQL Server database. - <a href="https://pypi.org/project/excel2mssql/">excel2mssql</a>
 - I developed a julia package for encoding cyclical values using sine and cosine - <a href="https://github.com/josehenriqueroveda/CyclicalEncoding.jl">CyclicalEncoding.jl</a>
 
 <br>
