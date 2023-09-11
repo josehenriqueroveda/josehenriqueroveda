@@ -18,17 +18,11 @@
 
 <h3>Knowledge and experiences:</h3>
 
-- Data science and analytics, data engineering
-- Machine learning model development
-- Data visualization in python, grafana and Power BI
-- Solid experience in programming with python: data automation scripts, ETL, backend (FastAPI) and web scraping
-- Intermediate julia programming skills
-- Intermediate vue.js
-- SQL queries
-- Databases: MS SQL Server, Oracle, MongoDB
-- Code versioning with Git
-- Knowledge in data projects and solutions for agribusiness
-- International projects (Brazil-China)
+- Data science, data engineering and machine learning
+- Solid experience in programming with Python: data automation scripts, ETL, backend (FastAPI) and web scraping
+- SQL
+- Grafana
+- English
 
 <h4>Open source contribuitions</h4>
 
@@ -72,8 +66,8 @@
 
 
 ``` http
-Technology can change people's lives. 
-It's as a tool to generate results and innovation, which will be a legacy for future generations.
+I like developing tools that can contribute to the community.
+I consider myself a Python, Cyber ​​Security and Data Science enthusiast.
 ```
 
 ---
