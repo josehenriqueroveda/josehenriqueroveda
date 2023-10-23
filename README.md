@@ -23,6 +23,7 @@
 - SQL
 - Grafana
 - English
+- Experience in data science projects for agriculture
 
 <h4>Open source contribuitions</h4>
 
@@ -67,7 +68,7 @@
 
 ``` http
 I like developing tools that can contribute to the community.
-I consider myself a Python, Cyber ​​Security and Data Science enthusiast.
+I consider myself a Python and Data Science enthusiast, seeking innovation and solutions to contribute to future generations.
 ```
 
 ---
