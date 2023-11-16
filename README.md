@@ -74,7 +74,7 @@ I consider myself a Python and Data Science enthusiast, seeking innovation and s
 ---
 <h2>🛠️ Technologies:</h2>
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=josehenriqueroveda&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only)](https://github.com/josehenriqueroveda/github-readme-stats)
+[![Top Langs](https://github-readme-stats-omega-red.vercel.app/api/top-langs/?username=josehenriqueroveda&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only)](https://github.com/josehenriqueroveda/github-readme-stats)
 
 
 <br>
