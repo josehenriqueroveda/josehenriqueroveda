@@ -20,6 +20,7 @@
 
 - Data science, data engineering and machine learning
 - Solid experience in programming with Python: data automation scripts, ETL, backend (FastAPI) and web scraping
+- Computer vision and agribusiness projects
 - SQL
 - Grafana
 - English
