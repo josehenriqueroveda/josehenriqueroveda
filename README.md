@@ -90,7 +90,7 @@ I consider myself a Python and Data Science enthusiast, seeking innovation and s
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2023 - To: 06 January 2024
+From: 31 December 2023 - To: 07 January 2024
 
 Python       8 hrs 7 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.16 %
 Markdown     4 hrs 3 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.05 %
