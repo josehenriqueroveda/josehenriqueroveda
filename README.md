@@ -20,7 +20,7 @@
 
 - Data science, data engineering and machine learning
 - Solid experience in programming with Python: data automation scripts, ETL, backend (FastAPI) and web scraping
-- Computer vision and agribusiness projects
+- Computer vision
 - SQL
 - Grafana
 - English
@@ -34,6 +34,30 @@
 
 <br>
 <hr>
+
+<h2>IT Career</h2>
+
+```mermaid
+gantt
+       dateFormat  MM-YYYY
+       title My IT Career
+
+       section Data Science
+       Senior Data Scientist               :active,  des1, after des2, 2y
+       Data Science Trainee    :  des2, 11-2020, 11-2022
+       Presidential Award   :milestone, crit, 04-2023, 1d
+       Efficiency and Innovation Award   :milestone, crit, 08-2022, 1d
+       Outstanding Continuous Improvement Representative   :milestone, crit, 03-2021, 1d
+
+       section Dev
+       Mobile Developer    :  des3, 04-2019, 10-2020
+
+       section College
+       MBA Data Science   : des5, 05-2021, 03-2022
+       Information Technology : des6, 01-2016, 01-2019
+       Merit Award for Academic Performance   :milestone, crit, 01-2019, 1d
+       Outstanding Final Paper Award   :milestone, crit, 01-2019, 1d
+```
 
 <h2>💻 Work </h2>
 
