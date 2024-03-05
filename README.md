@@ -23,7 +23,6 @@
 - Computer vision
 - SQL
 - Grafana
-- English
 - Experience in data science projects for agriculture
 
 <h4>Open source contribuitions</h4>
