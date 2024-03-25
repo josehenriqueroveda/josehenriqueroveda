@@ -126,7 +126,7 @@ Text         3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <h3>Roadmaps</h3>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e747f3b128dce3cb6f2310?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/660161796deb533d6e2dfd61?variant=dark)](https://roadmap.sh)
 
 
 <h3>GitHub Stats</h3>
