@@ -125,11 +125,6 @@ Markdown     14 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 
-<h3>Roadmaps</h3>
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/660161796deb533d6e2dfd61?variant=dark)](https://roadmap.sh)
-
-
 <h3>GitHub Stats</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=josehenriqueroveda&count_private=true&show_icons=true&locale=en&theme=dark#gh-dark-mode-only" alt="josehenriqueroveda" /></p>
