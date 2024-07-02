@@ -16,14 +16,19 @@
 </div>
 <br>
 
+``` http
+Data Engineer, Data Scientist, Data Analyst, Python Developer
+```
+
 <h3>Knowledge and experiences:</h3>
 
-- Data science, data engineering and machine learning
-- Solid experience in programming with Python: data automation scripts, ETL, backend (FastAPI) and web scraping
-- Computer vision
+- Data engineering, data science and data analytics
+- Solid experience in programming with Python
+- Data pipelines, scripting, ETL/ELT and web scraping
+- Backend (FastAPI / Flask)
 - SQL
 - Grafana
-- Experience in data science projects for agriculture
+- Fluent Portuguese, advanced English and basic Spanish.
 
 <h4>Open source contribuitions</h4>
 
@@ -56,43 +61,6 @@ gantt
        Information Technology : des6, 01-2016, 01-2019
        Merit Award for Academic Performance   :milestone, crit, 01-2019, 1d
        Outstanding Final Paper Award   :milestone, crit, 01-2019, 1d
-```
-
-<h2>💻 Work </h2>
-
-<b>Current Work</b>: I currently work as a Senior Data Scientist at an agribusiness multinational company, where I started as Trainee. I am responsible for projects in Data Science and Analytics, working in Brazil-China teams.<br>
-<h3>🏆 Awards at work:</h3>
-
- - Presidential Award - Bronze 2023
-   > **Project**: *Planting simulation and yield prediction with machine learning*<br>
- - Efficiency and Innovation Award - Bronze 2022
-   > **Project**: *ETL Migration to Talend Open Studio*<br>
- - Distinguished Continuous Improvement Representative Award 2021<br>
- - Nomination for Continuous Improvement Representative of the Information Technology department<br>
- 
-<hr>
-<h2>🎓 Studies </h2>
-<b>MBA in Data Science & Analytics</b>: USP/ESALQ<br>
-
-- Nomination for the best Final Paper of MBA in Data Science & Analytics (Score 10)
-  > **Project**: *Machine Learning applied to predict yield and supporting the local positioning of maize hybrid in Central-West region of Brazil*<br>
-  > 
-<br><b>Technologist in Analysis and Systems Development (Precision Agriculture as extra subject)</b>: FATEC Ribeirão Preto<br>
-
-<h3>🏆 Awarded twice:</h3>
-
- - Outstanding Final Paper (Published at the 18th National Congress of Scientific Initiation)<br>
-   > **Project**: *Development of a mobile application for managing agricultural spraying in different crops*<br>
- - Merit Award for Academic Performance<br><br>
- 
-<b>Bachelor in Graphic Design</b>: Universidade de Franca - UNIFRAN<br>
-<br>
-<hr>
-
-
-``` http
-I like developing tools that can contribute to the community.
-I consider myself a Python and Data Science enthusiast, seeking innovation and solutions to contribute to future generations.
 ```
 
 ---
