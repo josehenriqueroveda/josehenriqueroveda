@@ -1,24 +1,22 @@
 <code align="left">Welcome to my <b>github</b>!</code>
-
-<img align="left" height="48" src="https://github.com/josehenriqueroveda/josehenriqueroveda/blob/master/assets/hw.gif"><br>
 <br>
 <div align='left'>
 <b>Connect with me:</b>
 </div>
-
 <div align='left'>
 <a href="https://linkedin.com/in/jhroveda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jhroveda" /></a>
 </div>
-
 <br>
 <div align='left'>
  <img align='left' src="https://komarev.com/ghpvc/?username=josehenriqueroveda&label=Visitors&style=flat-square">
 </div>
 <br>
 
+
 ``` http
 Data Engineer, Data Scientist, Data Analyst, Python Developer
 ```
+#### 📌 [Check my CV in here!](https://josehenriqueroveda.github.io/)
 
 <h3>Knowledge and experiences:</h3>
 
