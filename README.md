@@ -16,7 +16,7 @@
 ``` http
 Data Engineer, Data Scientist, Data Analyst, Python Developer
 ```
-#### 📌 [Check out my CV in here!](https://josehenriqueroveda.github.io/)
+#### 📌 [Check out my CV here!](https://josehenriqueroveda.github.io/)
 
 <h3>Knowledge and experiences:</h3>
 
