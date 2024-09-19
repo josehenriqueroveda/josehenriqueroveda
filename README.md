@@ -23,7 +23,7 @@ Data Engineer, Data Scientist, Data Analyst, Python Developer
 - Data engineering, data science and data analytics
 - Solid experience in programming with Python
 - Data pipelines, scripting, ETL/ELT and web scraping
-- Backend (FastAPI / Flask)
+- Backend (FastAPI)
 - SQL
 - Grafana
 - Fluent Portuguese, advanced English and basic Spanish.
@@ -45,8 +45,8 @@ gantt
        title My IT Career
 
        section Data Science
-       Senior Data Scientist               :active,  des1, after des2, 2y
-       Data Science Trainee    :  des2, 11-2020, 11-2022
+       Senior Data Engineer/Scientist   :active,  des1, after des2, 3y
+       Data Engineer/Science Trainee    :  des2, 11-2020, 11-2022
        Presidential Award   :milestone, crit, 04-2023, 1d
        Efficiency and Innovation Award   :milestone, crit, 08-2022, 1d
        Outstanding Continuous Improvement Representative   :milestone, crit, 03-2021, 1d
@@ -64,12 +64,9 @@ gantt
 ---
 <h2>🛠️ Technologies:</h2>
 
-[![Top Langs](https://github-readme-stats-omega-red.vercel.app/api/top-langs/?username=josehenriqueroveda&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only)](https://github.com/josehenriqueroveda/github-readme-stats)
-
-
-<br>
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+
+[![Top Langs](https://github-readme-stats-omega-red.vercel.app/api/top-langs/?username=josehenriqueroveda&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only)](https://github.com/josehenriqueroveda/github-readme-stats)
 
 <h3>Coding Stats:</h3> 
 
