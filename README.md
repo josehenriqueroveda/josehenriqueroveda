@@ -4,7 +4,7 @@
 <b>Connect with me:</b>
 </div>
 <div align='left'>
-<a href="https://linkedin.com/in/jhroveda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jhroveda" /></a>
+<a href="https://linkedin.com/in/jhroveda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="jhroveda" /></a>
 </div>
 <br>
 <div align='left'>
@@ -14,16 +14,16 @@
 
 
 ``` http
-Data Engineer, Data Scientist, Data Analyst, Python Developer
+Backend Engineer | Ruby on Rails | Python | Data Engineer | Data Scientist
 ```
 #### 📌 [Check out my CV here!](https://josehenriqueroveda.github.io/)
 
 <h3>Knowledge and experiences:</h3>
 
+- Backend development
 - Data engineering, data science and data analytics
-- Solid experience in programming with Python
-- Data pipelines, scripting, ETL/ELT and web scraping
-- Backend (FastAPI)
+- Solid experience in programming with Python FastAPI and Ruby on Rails
+- Knowledge in Azure Cloud
 - SQL
 - Grafana
 - Fluent Portuguese, advanced English and basic Spanish.
@@ -64,7 +64,8 @@ gantt
 ---
 <h2>🛠️ Technologies:</h2>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-D30001.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
 
 [![Top Langs](https://github-readme-stats-omega-red.vercel.app/api/top-langs/?username=josehenriqueroveda&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only)](https://github.com/josehenriqueroveda/github-readme-stats)
 
