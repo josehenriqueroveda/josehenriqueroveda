@@ -52,7 +52,7 @@ gantt
        Outstanding Continuous Improvement Representative   :milestone, crit, 03-2021, 1d
 
        section Dev
-       Mobile Developer    :  des3, 04-2019, 10-2020
+       Software Engineer    :  des3, 04-2019, 10-2020
 
        section College
        MBA Data Science   : des5, 05-2021, 12-2022
