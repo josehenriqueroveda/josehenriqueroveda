@@ -44,14 +44,12 @@ gantt
        dateFormat  MM-YYYY
        title My IT Career
 
-       section Data Science
+       section IT/Dev
        Senior Data Engineer/Scientist   :active,  des1, after des2, 3y
        Data Engineer/Science Trainee    :  des2, 11-2020, 11-2022
        Presidential Award   :milestone, crit, 04-2023, 1d
        Efficiency and Innovation Award   :milestone, crit, 08-2022, 1d
        Outstanding Continuous Improvement Representative   :milestone, crit, 03-2021, 1d
-
-       section Dev
        Software Engineer    :  des3, 04-2019, 10-2020
 
        section College
