@@ -20,12 +20,15 @@ Backend Engineer | Ruby on Rails | Python | Data Engineer | Data Scientist
 
 <h3>Knowledge and experiences:</h3>
 
-- Backend development
-- Data engineering, data science and data analytics
-- Solid experience in programming with Python FastAPI and Ruby on Rails
-- Knowledge in Azure Cloud
-- SQL
-- Grafana
+- Solid experience in programming with Ruby on Rails and Python;
+- Frontend knowledge (Vue.js, Hotwire);
+- Data engineering and data science;
+- Knowledge in Azure Cloud;
+- SQL;
+- Git;
+- Github;
+- Rspec (tests)
+- RSwag (documentation)
 - Fluent Portuguese, advanced English and basic Spanish.
 
 <h4>Open source contribuitions</h4>
