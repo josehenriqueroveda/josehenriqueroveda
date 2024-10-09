@@ -14,7 +14,7 @@
 
 
 ``` http
-Backend Engineer | Ruby on Rails | Python | Data Engineer | Data Scientist
+Backend Engineer | Ruby on Rails | Python | Data Engineer
 ```
 #### 📌 [Check out my CV here!](https://josehenriqueroveda.github.io/)
 
