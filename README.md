@@ -48,8 +48,8 @@ gantt
        title My IT Career
 
        section IT/Dev
-       Senior Data Engineer/Scientist   :active,  des1, after des2, 3y
-       Data Engineer/Science Trainee    :  des2, 11-2020, 11-2022
+       Senior Data Engineer/Science Analyst   :active,  des1, after des2, 3y
+       Software Engineer Trainee    :  des2, 11-2020, 11-2022
        Presidential Award   :milestone, crit, 04-2023, 1d
        Efficiency and Innovation Award   :milestone, crit, 08-2022, 1d
        Outstanding Continuous Improvement Representative   :milestone, crit, 03-2021, 1d
