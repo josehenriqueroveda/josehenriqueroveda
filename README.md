@@ -24,6 +24,7 @@ Backend Engineer | Ruby on Rails | Python | Data Engineer
 - Experience with Test-Driven Development (TDD), using RSpec.
 - RSwag for documentation
 - Frontend knowledge (Vue.js, Hotwire);
+- PostgreSQL and SQLite databases;
 - Data engineering and data science;
 - Knowledge in Azure Cloud;
 - Fluent Portuguese, advanced English and basic Spanish.
