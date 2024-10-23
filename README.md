@@ -20,12 +20,12 @@ Backend Engineer | Ruby on Rails | Python | Data Engineer
 
 <h3>Knowledge and experiences:</h3>
 
-- Solid experience in programming with Ruby on Rails and Python;
-- Experience with Test-Driven Development (TDD), using RSpec.
-- RSwag for documentation
-- Frontend knowledge (Vue.js, Hotwire);
-- PostgreSQL and SQLite databases;
 - Data engineering and data science;
+- Solid experience in programming with Python and FastAPI;
+- Ruby on Rails;
+- Test-Driven Development (TDD), using RSpec.
+- RSwag for documentation
+- PostgreSQL and SQLite databases;
 - Knowledge in Azure Cloud;
 - Fluent Portuguese, advanced English and basic Spanish.
 
@@ -46,7 +46,7 @@ gantt
        title My IT Career
 
        section IT/Dev
-       Senior Data Engineer/Science Analyst   :active,  des1, after des2, 3y
+       Senior Data Engineer/Scientist   :active,  des1, after des2, 3y
        Software Engineer Trainee    :  des2, 11-2020, 11-2022
        Presidential Award   :milestone, crit, 04-2023, 1d
        Efficiency and Innovation Award   :milestone, crit, 08-2022, 1d
