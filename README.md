@@ -14,17 +14,17 @@
 
 
 ``` http
-Backend Engineer | Ruby on Rails | Python | Data Engineer
+Frontend | Backend | Data Engineer | Javascript | React | Python | SQL
 ```
 #### 📌 [Check out my CV here!](https://josehenriqueroveda.github.io/)
 
 <h3>Knowledge and experiences:</h3>
 
+- Javascript, HTML, CSS;
+- React, Next.js;
 - Data engineering and data science;
-- Solid experience in programming with Python and FastAPI;
-- Ruby on Rails;
-- Test-Driven Development (TDD), using RSpec;
-- RSwag for documentation;
+- Python, FastAPI;
+- Test-Driven Development (TDD);
 - PostgreSQL and SQLite databases;
 - Knowledge in Azure Cloud;
 - Fluent Portuguese, advanced English and basic Spanish;
@@ -58,13 +58,19 @@ gantt
        Information Technology : des6, 01-2016, 01-2019
        Merit Award for Academic Performance   :milestone, crit, 01-2019, 1d
        Outstanding Final Paper Award   :milestone, crit, 01-2019, 1d
+       Bachelor in Graphic Design : des7, 01-2011, 01-2015
 ```
 
 ---
 <h2>🛠️ Technologies:</h2>
 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-D30001.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) 
+
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
 
 [![Top Langs](https://github-readme-stats-omega-red.vercel.app/api/top-langs/?username=josehenriqueroveda&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only)](https://github.com/josehenriqueroveda/github-readme-stats)
 
