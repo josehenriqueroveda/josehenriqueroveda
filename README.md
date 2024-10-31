@@ -20,7 +20,7 @@ Frontend | Backend | Data Engineer | Javascript | React | Python | SQL
 
 <h3>Knowledge and experiences:</h3>
 
-- Javascript, HTML, CSS;
+- Javascript, Typescript, HTML, CSS;
 - React, Next.js;
 - Data engineering and data science;
 - Python, FastAPI;
