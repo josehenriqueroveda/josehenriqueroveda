@@ -14,7 +14,7 @@
 
 
 ``` http
-Frontend Developer | React | Javascript | HTML | CSS | UI/UX | Data Engineer | Python | SQL
+Frontend Developer | React | Javascript | HTML | CSS | UI/UX | Figma | Python | SQL
 ```
 #### 📌 [Check out my CV here!](https://josehenriqueroveda.github.io/)
 
