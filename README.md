@@ -1,7 +1,10 @@
-<code align="left">Welcome to my <b>github</b>!</code>
-<br>
+<div>
+ <img align='left' src="https://github.com/josehenriqueroveda/josehenriqueroveda/blob/master/assets/jhroveda-banner.png">
+</div>
+<hr>
+
 <div align='left'>
-<b>Connect with me:</b>
+<h4>Connect with me:</h4>
 </div>
 <div align='left'>
 <a href="https://linkedin.com/in/jhroveda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="jhroveda" /></a>
