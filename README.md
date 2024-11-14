@@ -19,7 +19,7 @@
 ``` http
 Frontend Developer | React | Javascript | HTML | CSS | UI/UX | Figma | Python | SQL
 ```
-#### 📌 [Check out my CV here!](https://josehenriqueroveda.github.io/)
+#### 📌 [Check out my Portfolio page here!](https://jhroveda-portfolio.vercel.app/)
 
 As a Frontend Developer with a strong foundation in data-driven development, I bring a unique blend of UI/UX insight and technical skills to my work. My experience spans frontend technologies like React, JavaScript, HTML, and CSS, as well as backend frameworks (FastAPI, Next.js) and a background in data analysis and engineering. With over five years of experience in the tech industry, I am dedicated to creating intuitive, user-centered digital experiences and am constantly evolving my knowledge in frontend development. My goal is to contribute to innovative, impactful projects, focusing on building responsive, engaging interfaces that enhance user experience and bridge the gap between design and functionality.
 
