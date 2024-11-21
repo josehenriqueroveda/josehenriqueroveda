@@ -77,7 +77,7 @@ gantt
 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
 
 [![Top Langs](https://github-readme-stats-omega-red.vercel.app/api/top-langs/?username=josehenriqueroveda&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only)](https://github.com/josehenriqueroveda/github-readme-stats)
 
