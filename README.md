@@ -27,7 +27,7 @@ Fast learner, good in troubleshooting and eager to collaborate on impactful proj
 
 <h3>Knowledge and experiences:</h3>
 
-- Javascript, Typescript, HTML, CSS;
+- Javascript, HTML, CSS;
 - React, Next.js;
 - Data engineering and data science;
 - Python, FastAPI;
@@ -71,7 +71,7 @@ gantt
 ---
 <h2>🛠️ Technologies:</h2>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) 
 
