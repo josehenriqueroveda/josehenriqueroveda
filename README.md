@@ -107,7 +107,7 @@ Text         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <h3>GitHub Trophies</h3>
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=josehenriqueroveda&theme=onedark&title=Repo,Commits,MultiLanguage,Stars,Followers)](https://github.com/josehenriqueroveda/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=josehenriqueroveda&theme=onedark&title=-Reviews)](https://github.com/josehenriqueroveda/github-profile-trophy)
 
 
 ---
