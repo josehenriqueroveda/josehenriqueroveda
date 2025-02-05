@@ -17,7 +17,7 @@
 
 
 ``` http
-Frontend Developer | React | Javascript | HTML | CSS | UI/UX | Figma | Python | SQL
+Software Engineer | Fullstack | Frontend | React | Next.js | Javascript | Python | SQL
 ```
 #### 📌 [Check out my Portfolio page here!](https://jhroveda-portfolio.vercel.app/)
 
