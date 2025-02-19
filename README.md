@@ -21,20 +21,17 @@ Software Engineer | Fullstack | Frontend | React | Next.js | Javascript | Python
 ```
 #### 📌 [Check out my Portfolio page here!](https://jhroveda-portfolio.vercel.app/)
 
-As a Full Stack Software Engineer with a strong foundation in data-driven development, I bring a unique blend of UI/UX insight and technical skills to my work. My experience spans frontend technologies like React, JavaScript, HTML, and CSS, as well as backend frameworks (FastAPI, Next.js) and a background in data analysis and engineering. With over five years of experience in the tech industry, I am dedicated to creating intuitive, user-centered digital experiences and am constantly evolving my knowledge in frontend development. My goal is to contribute to innovative, impactful projects, focusing on building responsive, engaging interfaces that enhance user experience and bridge the gap between design and functionality.
+I am a passionate Software Engineer specializing in Fullstack and Frontend Development, with experience in React.js, Next.js, JavaScript, and Python. With over five years of experience in the tech industry, I build applications that merge UI/UX principles and data-driven development to create intuitive and intelligent Web AI applications.
 
-Fast learner, good in troubleshooting and eager to collaborate on impactful projects.
+💡 **What I Bring to the Table:**
 
-<h3>Knowledge and experiences:</h3>
+✔️ **Frontend** – Knowledge in React.js, Next.js and Tailwind CSS, optimizing performance, SEO, and accessibility.<br>
+✔️ **Fullstack & API Development** – Experience in Node.js, FastAPI, and PostgreSQL, building RESTful APIs and microservices for backends.<br>
+✔️ **Web AI & Automation** – Passionate about integrating AI-powered automation, LLMs (Large Language Models), and intelligent chatbots into web applications to enhance user experiences.<br>
+✔️ **Data-Driven Insights** – Strong foundation in data engineering, ETL pipelines, and AI-powered analytics, ensuring applications leverage data effectively.<br>
+✔️ **Languages** – Competent in Javascript, Python and SQL. Willing to learn new languages and technologies.<br>
 
-- Javascript, HTML, CSS;
-- React, Next.js;
-- Data engineering and data science;
-- Python, FastAPI;
-- Test-Driven Development (TDD);
-- PostgreSQL and SQLite databases;
-- Knowledge in Azure Cloud;
-- Fluent Portuguese, advanced English and basic Spanish;
+🌍 Open to remote or hybrid opportunities abroad (US, Canada, Europe) and interested in collaborating on cutting-edge AI-powered web applications. Let's connect and build something innovative! 🚀
 
 <h4>Open source contribuitions</h4>
 
