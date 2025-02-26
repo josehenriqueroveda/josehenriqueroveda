@@ -17,7 +17,7 @@
 
 
 ``` http
-Software Engineer | Fullstack | Frontend | React | Next.js | Javascript | Python | SQL
+Senior Data Scientist | Data Engineer | AI | Machine Learning | Python | SQL
 ```
 #### 📌 [Check out my Portfolio page here!](https://josehenriqueroveda.github.io/)
 
