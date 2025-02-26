@@ -1,5 +1,5 @@
 <div>
- <img align='left' src="https://github.com/josehenriqueroveda/josehenriqueroveda/blob/master/assets/jhroveda-banner.png">
+ <img align='left' src="https://github.com/josehenriqueroveda/josehenriqueroveda/blob/master/assets/github-cover.png">
 </div>
 <hr>
 
