@@ -23,12 +23,12 @@ Senior Data Scientist | Data Engineer | AI | Machine Learning | Python | SQL
 
 I am an analytical Data Scientist and Data Engineer with over five years of experience in designing and implementing data pipelines, machine learning models, and AI solutions. My expertise includes Python, SQL, and FastAPI, focusing on efficient data processing and automation. My goal is to create intelligent, scalable, and impactful data solutions that drive business value.
 
-💡 What I Bring to the Table:
-✔️ Data Science & AI– Passionate about integrating AI, LLMs (Large Language Models), and machine learning models as problem solvers.
-✔️ Backend Development – Experience in FastAPI, and PostgreSQL, building RESTful APIs and microservices for backends.
-✔️ Data-Driven Insights – Strong foundation in data engineering, ETL pipelines, and AI-powered analytics, ensuring applications leverage data effectively.
-✔️ Languages – Competent in Python and SQL. Willing to learn new languages and technologies.
-
+💡 What I Bring to the Table:<br>
+✔️ Data Science & AI– Passionate about integrating AI, LLMs (Large Language Models), and machine learning models as problem solvers.<br>
+✔️ Backend Development – Experience in FastAPI, and PostgreSQL, building RESTful APIs and microservices for backends.<br>
+✔️ Data-Driven Insights – Strong foundation in data engineering, ETL pipelines, and AI-powered analytics, ensuring applications leverage data effectively.<br>
+✔️ Languages – Competent in Python and SQL. Willing to learn new languages and technologies.<br>
+<br>
 🌍 Open to remote or hybrid opportunities abroad (US, Canada, Europe) and interested in collaborating on cutting-edge AI-powered applications. Let's connect and build something innovative! 🚀
 
 <h4>Open source contribuitions</h4>
