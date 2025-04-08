@@ -42,13 +42,22 @@ I am an analytical Data Scientist and Data Engineer with over five years of expe
 
 # ⭐ Highlighted Projects:
 
-## Grain Variance Coefficient
+## 🫘 Grain Variance Coefficient
 The tool takes an image of grains as input, identify individual grains and calculate the width and height of each grain.
 The tool also calculates the coefficient of variance for the widths and heights, providing a measure of the variability of grain size. The results are visualized directly on the image, with each grain enclosed in a rectangle and the dimensions displayed.
 
 
 ![](https://raw.githubusercontent.com/josehenriqueroveda/grain-analysis/main/grain_analysis/img/beans_output.jpg)
 
+## 🏬 Distributors Clustering
+This project aims to cluster the distributors of a company based on their sales data. The company has a large number of distributors and wants to group them into different clusters based on their sales data. The company wants to understand the characteristics of each cluster and use this information to make decisions about how to better support each distributor.
+
+![](https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/refs/heads/master/assets/projects/distributors-clustering.jpg)
+
+## 🚛 Trucks Queue
+Truck Queue is a computer vision project that leverages a YOLO (You Only Look Once) object detection model to monitor and count parked trucks almost in real-time. This tool was developed to optimize the logistics and loading process at industrial facilities by providing a clear view of the truck queue outside the company.
+
+![](https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/refs/heads/master/assets/projects/truck-queue.jpg)
 
 ---
 <h2>🛠️ Technologies:</h2>
