@@ -19,7 +19,7 @@
 ``` http
 Senior Data Scientist | Data Engineer | AI | Machine Learning | Python | SQL
 ```
-#### 📌 [Check out my Portfolio page here!](https://josehenriqueroveda.github.io/)
+#### 📌 [Check out my CV here!](https://josehenriqueroveda.github.io/)
 
 I am an analytical Data Scientist and Data Engineer with over five years of experience in designing and implementing data pipelines, machine learning models, and AI solutions. My expertise includes Python, SQL, and FastAPI, focusing on efficient data processing and automation. My goal is to create intelligent, scalable, and impactful data solutions that drive business value.
 
@@ -40,28 +40,15 @@ I am an analytical Data Scientist and Data Engineer with over five years of expe
 <br>
 <hr>
 
-<h2>IT Career</h2>
+# ⭐ Highlighted Projects:
 
-```mermaid
-gantt
-       dateFormat  MM-YYYY
-       title My IT Career
+## Grain Variance Coefficient
+The tool takes an image of grains as input, identify individual grains and calculate the width and height of each grain.
+The tool also calculates the coefficient of variance for the widths and heights, providing a measure of the variability of grain size. The results are visualized directly on the image, with each grain enclosed in a rectangle and the dimensions displayed.
 
-       section IT/Dev
-       Senior Data Scientist   :active,  des1, after des2, 3y
-       Data Science Trainee    :  des2, 11-2020, 11-2022
-       Presidential Award   :milestone, crit, 04-2023, 1d
-       Efficiency and Innovation Award   :milestone, crit, 08-2022, 1d
-       Outstanding Continuous Improvement Representative   :milestone, crit, 03-2021, 1d
-       Software Engineer    :  des3, 04-2019, 10-2020
 
-       section College
-       MBA Data Science   : des5, 05-2021, 12-2022
-       Information Technology : des6, 01-2016, 01-2019
-       Merit Award for Academic Performance   :milestone, crit, 01-2019, 1d
-       Outstanding Final Paper Award   :milestone, crit, 01-2019, 1d
-       Bachelor in Graphic Design : des7, 01-2011, 01-2015
-```
+![](https://raw.githubusercontent.com/josehenriqueroveda/grain-analysis/main/grain_analysis/img/beans_output.jpg)
+
 
 ---
 <h2>🛠️ Technologies:</h2>
