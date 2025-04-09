@@ -30,14 +30,6 @@ I am an analytical Data Scientist and Data Engineer with over five years of expe
 ✔️ Languages – Competent in Python and SQL. Willing to learn new languages and technologies.<br>
 <br>
 🌍 Open to remote or hybrid opportunities abroad (US, Canada, Europe) and interested in collaborating on cutting-edge AI-powered applications. Let's connect and build something innovative! 🚀
-
-<h4>Open source contribuitions</h4>
-
-- I developed a python library to store logs in MongoDB and send notifications of errors to MS Teams - <a href="https://pypi.org/project/logze/">logze</a>
-- I developed a python library that provides functionality to read data from Excel and CSV files and insert it into a Microsoft SQL Server database. - <a href="https://pypi.org/project/excel2mssql/">excel2mssql</a>
-- I developed a julia package for encoding cyclical values using sine and cosine - <a href="https://github.com/josehenriqueroveda/CyclicalEncoding.jl">CyclicalEncoding.jl</a>
-
-<br>
 <hr>
 
 # ⭐ Highlighted Projects:
@@ -58,6 +50,15 @@ This project aims to cluster the distributors of a company based on their sales 
 Truck Queue is a computer vision project that leverages a YOLO (You Only Look Once) object detection model to monitor and count parked trucks almost in real-time. This tool was developed to optimize the logistics and loading process at industrial facilities by providing a clear view of the truck queue outside the company.
 
 ![](https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/refs/heads/master/assets/projects/truck-queue.jpg)
+
+
+<h4>Open source contribuitions</h4>
+
+- I developed a python library to store logs in MongoDB and send notifications of errors to MS Teams - <a href="https://pypi.org/project/logze/">logze</a>
+- I developed a python library that provides functionality to read data from Excel and CSV files and insert it into a Microsoft SQL Server database. - <a href="https://pypi.org/project/excel2mssql/">excel2mssql</a>
+- I developed a julia package for encoding cyclical values using sine and cosine - <a href="https://github.com/josehenriqueroveda/CyclicalEncoding.jl">CyclicalEncoding.jl</a>
+
+<br>
 
 ---
 <h2>🛠️ Technologies:</h2>
