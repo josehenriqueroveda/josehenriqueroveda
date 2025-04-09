@@ -41,15 +41,25 @@ The tool also calculates the coefficient of variance for the widths and heights,
 
 ![](https://raw.githubusercontent.com/josehenriqueroveda/grain-analysis/main/grain_analysis/img/beans_output.jpg)
 
-## 🏬 Distributors Clustering
-This project aims to cluster the distributors of a company based on their sales data. The company has a large number of distributors and wants to group them into different clusters based on their sales data. The company wants to understand the characteristics of each cluster and use this information to make decisions about how to better support each distributor.
+## 🌽 CornSeed XRay Infestation Detection
+This project uses computer vision with YOLO to detect and classify infested corn seeds (with larvae, holes, or other internal damage) from X-ray images. The goal is to automate seed screening and quality control in agricultural and lab environments.
+- It detects individual seeds in X-ray images.
+- Classify each seed as:
+  - `infested` (presence of larvae, holes, etc.)
+  - `not_infested` (normal)
+- Improve accuracy in automated seed screening for agriculture.
 
-![](https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/refs/heads/master/assets/projects/distributors-clustering.jpg)
+![](https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/refs/heads/master/assets/projects/seed-infestation.jpg)
 
 ## 🚛 Trucks Queue
 Truck Queue is a computer vision project that leverages a YOLO (You Only Look Once) object detection model to monitor and count parked trucks almost in real-time. This tool was developed to optimize the logistics and loading process at industrial facilities by providing a clear view of the truck queue outside the company.
 
 ![](https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/refs/heads/master/assets/projects/truck-queue.jpg)
+
+## 🏬 Distributors Clustering
+This project aims to cluster the distributors of a company based on their sales data. The company has a large number of distributors and wants to group them into different clusters based on their sales data. The company wants to understand the characteristics of each cluster and use this information to make decisions about how to better support each distributor.
+
+![](https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/refs/heads/master/assets/projects/distributors-clustering.jpg)
 
 
 <h4>Open source contribuitions</h4>
