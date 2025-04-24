@@ -17,20 +17,22 @@
 
 
 ``` http
-Senior Data Scientist | Data Engineer | AI | Machine Learning | Python | SQL
+Data Scientist | Python | Machine Learning | LLMs & AI Agents | SQL | FastAPI | Business-Oriented AI Solutions
 ```
-#### 📌 [Check out my CV here!](https://josehenriqueroveda.github.io/)
+#### 📌 [Check out my Resume/CV here!](https://josehenriqueroveda.github.io/)
 
-I am an analytical Data Scientist and Data Engineer with over five years of experience in designing and implementing data pipelines, machine learning models, and AI solutions. My expertise includes Python, SQL, and FastAPI, focusing on efficient data processing and automation. My goal is to create intelligent, scalable, and impactful data solutions that drive business value.
+Data Scientist with more than 4 years of experience applying data science and artificial intelligence to solve real problems and generate strategic business impact. I have solid experience in Python, SQL, FastAPI, predictive models, computer vision (YOLO), time series, LLMs and AI agents.
+<br><br>
+ What drives me is turning data into value: connecting technical insights with real business needs, whether with visualizations, APIs, models or intelligent agents.<br>
 
 💡 What I Bring to the Table:<br>
-✔️ Data Science & AI– Passionate about integrating AI, LLMs (Large Language Models), and machine learning models as problem solvers.<br>
-✔️ Backend Development – Experience in FastAPI, and PostgreSQL, building RESTful APIs and microservices for backends.<br>
-✔️ Data-Driven Insights – Strong foundation in data engineering, ETL pipelines, and AI-powered analytics, ensuring applications leverage data effectively.<br>
-✔️ Languages – Competent in Python and SQL. Willing to learn new languages and technologies.<br>
+✔️Python, SQL, FastAPI, Scikit-learn, Pandas, PyTorch, LLMs<br>
+✔️ Machine Learning, Forecasting, NLP, AI Agents<br>
+✔️ Power BI, Apache Airflow, Computer Vision (YOLO)<br>
+✔️ APIs, Data pipelines, Cloud (AWS and Azure basics)<br>
+✔️ Communication and decision-oriented data storytelling<br>
 <br>
-🌍 Open to remote or hybrid opportunities abroad (US, Canada, Europe) and interested in collaborating on cutting-edge AI-powered applications. Let's connect and build something innovative! 🚀
-<hr>
+🌍 Open to remote or hybrid opportunities abroad (US, Canada, Europe) and interested in collaborating on cutting-edge AI-powered applications. Let's connect and build something innovative! 🚀<br>
 
 # ⭐ Highlighted Projects:
 
