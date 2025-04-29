@@ -58,6 +58,15 @@ Truck Queue is a computer vision project that leverages a YOLO (You Only Look On
 
 ![](https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/refs/heads/master/assets/projects/truck-queue.jpg)
 
+## 🐝 Pollen Grain Detection
+This project uses a YOLOv11 model to identify and classify pollen grains in microscopy images.
+Given a set of microscope images, the script performs:
+- Automatic detection of pollen grains.
+- Counting the number of grains for each identified class.
+- Generation of a CSV report (results.csv) with the count of each pollen type per image.
+
+![](https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/refs/heads/master/assets/projects/micro-pollen.jpg)
+
 ## 🏬 Distributors Clustering
 This project aims to cluster the distributors of a company based on their sales data. The company has a large number of distributors and wants to group them into different clusters based on their sales data. The company wants to understand the characteristics of each cluster and use this information to make decisions about how to better support each distributor.
 
