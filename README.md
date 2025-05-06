@@ -37,6 +37,24 @@ Data Scientist with more than 4 years of experience applying data science and ar
 ## ⭐ Highlighted Projects:
 
 <details>
+<summary><b>🤖 AI Market Intelligence Agent</b></summary>
+ <br>
+This solution uses CrewAI, Gemini and LangChain with DuckDuckGo to automate grain market analysis.
+ 
+The aim is to save time and turn dispersed data into strategic data in a few minutes.
+
+The output is a market intelligence report containing the following topics: 
+ 
+```
+1. Executive summary
+2. Sector overview, 
+3. Opportunities and threats
+4. Actionable moves
+```
+ 
+</details>
+
+<details>
 <summary><b>🫘 Grain Variance Coefficient</b></summary>
 <br>
 The tool takes an image of grains as input, identify individual grains and calculate the width and height of each grain.
