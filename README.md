@@ -51,6 +51,8 @@ The output is a market intelligence report containing the following topics:
 3. Opportunities and threats
 4. Actionable moves
 ```
+
+![](https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/refs/heads/master/assets/projects/market-agent.jpg)
  
 </details>
 
