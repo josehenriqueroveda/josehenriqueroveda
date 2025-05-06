@@ -34,16 +34,22 @@ Data Scientist with more than 4 years of experience applying data science and ar
 <br>
 🌍 Open to remote or hybrid opportunities abroad (US, Canada, Europe) and interested in collaborating on cutting-edge AI-powered applications. Let's connect and build something innovative! 🚀<br>
 
-# ⭐ Highlighted Projects:
+## ⭐ Highlighted Projects:
 
-## 🫘 Grain Variance Coefficient
+<details>
+<summary><b>🫘 Grain Variance Coefficient</b></summary>
+<br>
 The tool takes an image of grains as input, identify individual grains and calculate the width and height of each grain.
 The tool also calculates the coefficient of variance for the widths and heights, providing a measure of the variability of grain size. The results are visualized directly on the image, with each grain enclosed in a rectangle and the dimensions displayed.
 
 
 ![](https://raw.githubusercontent.com/josehenriqueroveda/grain-analysis/main/grain_analysis/img/beans_output.jpg)
 
-## 🌽 CornSeed XRay Infestation Detection
+</details>
+
+<details>
+<summary><b>🌽 CornSeed XRay Infestation Detection</b></summary>
+<br>
 This project uses computer vision with YOLO to detect and classify infested corn seeds (with larvae, holes, or other internal damage) from X-ray images. The goal is to automate seed screening and quality control in agricultural and lab environments.
 - It detects individual seeds in X-ray images.
 - Classify each seed as:
@@ -53,12 +59,20 @@ This project uses computer vision with YOLO to detect and classify infested corn
 
 ![](https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/refs/heads/master/assets/projects/seed-infestation.jpg)
 
-## 🚛 Trucks Queue
+</details>
+
+<details>
+<summary><b>🚛 Trucks Queue</b></summary>
+<br>
 Truck Queue is a computer vision project that leverages a YOLO (You Only Look Once) object detection model to monitor and count parked trucks almost in real-time. This tool was developed to optimize the logistics and loading process at industrial facilities by providing a clear view of the truck queue outside the company.
 
 ![](https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/refs/heads/master/assets/projects/truck-queue.jpg)
 
-## 🐝 Pollen Grain Detection
+</details>
+
+<details>
+<summary><b>🐝 Pollen Grain Detection</b></summary>
+<br>
 This project uses a YOLOv11 model to identify and classify pollen grains in microscopy images.
 Given a set of microscope images, the script performs:
 - Automatic detection of pollen grains.
@@ -67,18 +81,25 @@ Given a set of microscope images, the script performs:
 
 ![](https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/refs/heads/master/assets/projects/micro-pollen.jpg)
 
-## 🏬 Distributors Clustering
+</details>
+
+<details>
+<summary><b>🏬 Distributors Clustering</b></summary>
+<br>
 This project aims to cluster the distributors of a company based on their sales data. The company has a large number of distributors and wants to group them into different clusters based on their sales data. The company wants to understand the characteristics of each cluster and use this information to make decisions about how to better support each distributor.
 
 ![](https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/refs/heads/master/assets/projects/distributors-clustering.jpg)
 
+</details>
 
-<h4>Open source contribuitions</h4>
-
+<details>
+<summary><b>📦 Libraries and packages contribuitions</b></summary>
+<br>
 - I developed a python library to store logs in MongoDB and send notifications of errors to MS Teams - <a href="https://pypi.org/project/logze/">logze</a>
 - I developed a python library that provides functionality to read data from Excel and CSV files and insert it into a Microsoft SQL Server database. - <a href="https://pypi.org/project/excel2mssql/">excel2mssql</a>
 - I developed a julia package for encoding cyclical values using sine and cosine - <a href="https://github.com/josehenriqueroveda/CyclicalEncoding.jl">CyclicalEncoding.jl</a>
 
+</details>
 <br>
 
 ---
