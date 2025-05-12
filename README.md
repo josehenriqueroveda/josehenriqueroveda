@@ -37,6 +37,28 @@ Data Scientist with more than 4 years of experience applying data science and ar
 ## ⭐ Highlighted Projects:
 
 <details>
+ <summary><b>✝️ Revela - LLM AI Agents for Devotionals</b></summary>
+<br>
+Revela is an AI-powered system that generates devotionals based on specific themes. Using a crew of specialized AI agents, Revela researches relevant Bible passages, provides theological analysis, and crafts structured spiritual messages.
+<br><br>
+ 
+**Input theme**: "patience" 
+<br>
+[Devotional Output](https://github.com/josehenriqueroveda/revela/blob/main/devotional-2025-05-09.md)
+
+**Features:**
+ ```
+- Bible Research Agent: Locates precise scripture passages based on references or thematic keywords
+- Theological Analyst: Provides deep historical, literary, and spiritual interpretation of passages
+- Devotional Writer: Crafts well-structured, Christ-centered messages for spiritual edification
+- Local LLM Support: Works with local models via Ollama (default: Gemma 3 1B)
+- Bible Search Tool: Efficiently searches through scripture with both reference and keyword lookup
+ ```
+
+
+</details>
+
+<details>
 <summary><b>🤖 AI Market Intelligence Agent</b></summary>
  <br>
 This solution uses CrewAI, Gemini and LangChain with DuckDuckGo to automate grain market analysis.
