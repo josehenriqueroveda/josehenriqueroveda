@@ -26,11 +26,11 @@ Data Scientist with more than 4 years of experience applying data science and ar
  What drives me is turning data into value: connecting technical insights with real business needs, whether with visualizations, APIs, models or intelligent agents.<br>
 
 💡 What I Bring to the Table:<br>
-✔️Python, SQL, FastAPI, Scikit-learn, Pandas, PyTorch, LLMs<br>
-✔️ Machine Learning, Forecasting, NLP, AI Agents<br>
-✔️ Power BI, Apache Airflow, Computer Vision (YOLO)<br>
-✔️ APIs, Data pipelines, Cloud (AWS and Azure basics)<br>
-✔️ Communication and decision-oriented data storytelling<br>
+• Python, SQL, FastAPI, Scikit-learn, Pandas, PyTorch, LLMs<br>
+• Machine Learning, Forecasting, NLP, AI Agents<br>
+• Power BI, Apache Airflow, Computer Vision (YOLO)<br>
+• APIs, Data pipelines, Cloud (AWS and Azure basics)<br>
+• Communication and decision-oriented data storytelling<br>
 <br>
 🌍 Open to remote or hybrid opportunities abroad (US, Canada, Europe) and interested in collaborating on cutting-edge AI-powered applications. Let's connect and build something innovative! 🚀<br>
 
