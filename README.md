@@ -6,15 +6,7 @@
 
 <br><br><br>
 
-``` http
-Data Scientist | Python | Machine Learning | LLMs & AI Agents | SQL | FastAPI | Business-Oriented AI Solutions
-```
-
-#### 📌 [Check out my Resume/CV here!](https://josehenriqueroveda.github.io/)
-
-<div align='left'>
-<a href="https://linkedin.com/in/jhroveda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="jhroveda" /></a>
-</div>
+## About
 
 Data Scientist with more than 4 years of experience applying data science and artificial intelligence to solve real problems and generate strategic business impact. I have solid experience in Python, SQL, FastAPI, predictive models, computer vision (YOLO), time series, LLMs and AI agents.
 <br><br>
@@ -27,7 +19,12 @@ Data Scientist with more than 4 years of experience applying data science and ar
 • APIs, Data pipelines, Cloud (AWS and Azure basics)<br>
 • Communication and decision-oriented data storytelling<br>
 <br>
-🌍 Open to remote or hybrid opportunities abroad (US, Canada, Europe) and interested in collaborating on cutting-edge AI-powered applications. Let's connect and build something innovative! 🚀<br>
+
+#### 📌 [Check out my Resume/CV here!](https://josehenriqueroveda.github.io/)
+
+<div align='left'>
+<a href="https://linkedin.com/in/jhroveda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="jhroveda" /></a>
+</div>
 
 ## ⭐ Highlighted Projects:
 
