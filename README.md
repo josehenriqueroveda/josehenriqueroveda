@@ -26,6 +26,19 @@ What I Bring to the Table:<br>
 ## Highlighted Projects:
 
 <details>
+ <summary><b>Football Analytics - Bayer Leverkusen vs Werder Bremen</b></summary>
+ <br>
+ Match analysis: Bayer 04 Leverkusen 5-0 Werder Bremen (from Leverkusen's 23/24 unbeaten season)<br>.
+⚽ Passing heatmap<br>
+⚽ Passing network<br>
+⚽ Control Zones (Voronoi)<br>
+⚽ Pressures applied on the pitch<br>
+<br>
+ 
+ ![](https://raw.githubusercontent.com/josehenriqueroveda/leverkusen-2324/refs/heads/main/imgs/out.png)
+</details>
+
+<details>
  <summary><b>Revela - LLM AI Agents for Devotionals</b></summary>
 <br>
 Revela is an AI-powered system that generates devotionals based on specific themes. Using a crew of specialized AI agents, Revela researches relevant Bible passages, provides theological analysis, and crafts structured spiritual messages.
