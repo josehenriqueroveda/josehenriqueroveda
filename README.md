@@ -26,6 +26,23 @@ What I Bring to the Table:<br>
 ## Highlighted Projects:
 
 <details>
+<summary><b>AgRag</b></summary>
+ <br>
+This project implements a Q&A system using the RAG (Retrieval-Augmented Generation) technique, based on a PDF file with technical content (such as questions and answers about a crop).
+ 
+```
+Main features:
+ ✅ Everything local and free (no cloud or paid API)
+ ✅ Semantic indexing of the content of an Embrapa PDF
+ ✅ Contextualized answers, in Portuguese, about agronomic practices
+ ✅ 100% focus on real data about the chosen crop
+```
+
+![](https://raw.githubusercontent.com/josehenriqueroveda/josehenriqueroveda/refs/heads/master/assets/projects/agrag.jpg)
+ 
+</details>
+
+<details>
  <summary><b>Football Analytics - Bayer Leverkusen vs Werder Bremen</b></summary>
  <br>
  Match analysis: Bayer 04 Leverkusen 5-0 Werder Bremen (from Leverkusen's 23/24 unbeaten season)<br>.
