@@ -12,12 +12,10 @@ Data Scientist with more than 4 years of experience applying data science and ar
 
 What I Bring to the Table:<br>
 • Python, SQL, FastAPI, Scikit-learn, Pandas, PyTorch, LLMs<br>
-• Machine Learning, Forecasting, NLP, AI Agents<br>
+• Machine Learning, Forecasting, Generative AI, Agents<br>
 • Power BI, Apache Airflow, Computer Vision (YOLO)<br>
 • APIs, Data pipelines, Cloud (AWS and Azure basics)<br>
 • Communication and decision-oriented data storytelling<br>
-
-#### [Check out my Resume/CV here!](https://josehenriqueroveda.github.io/)
 
 <div align='left'>
 <a href="https://linkedin.com/in/jhroveda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="jhroveda" /></a>
