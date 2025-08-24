@@ -167,9 +167,11 @@ This project aims to cluster the distributors of a company based on their sales 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2025 - To: 22 August 2025
+From: 16 August 2025 - To: 23 August 2025
 
-Other   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+Python   23 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀   75.61 %
+CSV      5 mins          ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.86 %
+Other    1 min           ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.53 %
 ```
 
 <!--END_SECTION:waka-->
