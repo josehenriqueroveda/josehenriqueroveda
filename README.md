@@ -167,7 +167,7 @@ This project aims to cluster the distributors of a company based on their sales 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2025 - To: 13 December 2025
+From: 07 December 2025 - To: 14 December 2025
 
 No activity tracked
 ```
